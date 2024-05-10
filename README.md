@@ -10,5 +10,4 @@ Aspiring frontend developer dedicated to crafting intuitive and visually appeali
 * ✉️  You can contact me at [ashebin24@gmail.com](mailto:ashebin24@gmail.com)
 * 🤝  I'm open to collaborating on projects
 
-### Skills
 
