@@ -1,4 +1,4 @@
-Hi there 👋 Welcome to My Profile! 😊
+Hello and welcome! 👋 
 ===================================
 I’m a passionate developer focused on creating seamless web experiences.  
 I love building solutions that are both functional and visually engaging.
